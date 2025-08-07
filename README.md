@@ -18,9 +18,6 @@ npm run dev:full
 
 This starts both the frontend (port 3000) and backend proxy (port 3001).
 
-## How it works
-
-Uses MyMemory Translation API with a local Express proxy to avoid CORS issues. Has custom language detection that prioritizes Japanese hiragana/katakana over Chinese characters.
 
 ## Tech
 
